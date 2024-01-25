@@ -6,3 +6,10 @@
 //
 
 import Foundation
+
+
+struct Model {
+    var image: String
+    var text:String
+    var countText:String
+}
