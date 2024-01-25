@@ -257,7 +257,6 @@ class SecondViewController: UIViewController {
     
     @objc func likeBtnTapped(sender:UIButton){
         
-        
     }
     }
 
